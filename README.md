@@ -7,7 +7,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation).
 
 ## Colorscheme
 
-This setup already comes with multiples custom themes, you can browse the availables ones using `<leader>+<u><C>`.
+This setup already comes with multiples custom themes, you can browse the availables ones using `<leader>+<u>+<C>`.
 
 To set a default theme to be loaded on opening you need to modify the [colorscheme plugin](./lua/plugins/colorscheme.lua).
 
